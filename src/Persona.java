@@ -9,8 +9,11 @@ public class Persona {
 			
 			int a =2;
 			int b =3;
+			float c=4;
+			float d=2;
 			
 			System.out.println(a+b);
+			System.out.println(c/d);
 		}
 	}
 
