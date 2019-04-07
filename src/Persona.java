@@ -21,6 +21,8 @@ public class Persona {
 			for (int j=0;j<34;j++) {
 				System.out.println("Feliz Cumpleanos");
 			}
+			
+			System.out.println("Vos sos pelotudo de mierda ");
 		
 	}
 
