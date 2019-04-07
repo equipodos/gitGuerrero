@@ -16,7 +16,12 @@ public class Persona {
 			
 			System.out.println(a+b);
 			System.out.println(c/d);
+			
 		}
+			for (int j=0;j<34;j++) {
+				System.out.println("Feliz Cumpleanos");
+			}
+		
 	}
 
 }
