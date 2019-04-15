@@ -34,7 +34,7 @@ public class Persona {
 
 		System.out.println("Lauti Uno ");
          
-		System.out.println("Lauti alñsdjflqeoprqjpeono ");
+		System.out.println("Otro cambio ");
          
 
 		
