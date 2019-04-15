@@ -31,8 +31,9 @@ public class Persona {
 
 		System.out.println("Juancito");
 
-		System.out.println("No estuvo bien ");
-
+		System.out.println("Lauti Uno ");
+         
+		
 		
 	}
 
