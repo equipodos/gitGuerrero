@@ -25,6 +25,10 @@ public class Persona {
 			System.out.println("Vos sos pelotudo de mierda ");
 			
 			System.out.println("LinkedIn");
+			
+				System.out.println("Dos veces");
+			
+		 
 		
 	}
 
