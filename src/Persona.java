@@ -28,7 +28,14 @@ public class Persona {
 			
 				System.out.println("Dos veces");
 			
-		System.out.println("lAUTI dOS");
+
+
+		System.out.println("Juancito");
+
+		System.out.println("Lauti Uno ");
+         
+		
+
 		
 	}
 
