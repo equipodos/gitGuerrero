@@ -28,7 +28,7 @@ public class Persona {
 			
 				System.out.println("Dos veces");
 			
-		System.out.println("No estuvo bien ");
+		System.out.println("lAUTI dOS");
 		
 	}
 
