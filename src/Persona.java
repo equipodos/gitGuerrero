@@ -28,7 +28,7 @@ public class Persona {
 			
 				System.out.println("Dos veces");
 			
-		System.out.println("COnflictivo");
+		System.out.println("Juancito");
 		
 	}
 
